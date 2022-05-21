@@ -5,6 +5,6 @@ Objective of the challenge: Create a mote in tiny-os that make the led blink to 
 
 ![1](https://user-images.githubusercontent.com/60111084/169647159-e3b57561-e5ff-4f96-b0fc-2b2797e84bac.png)
 
-For a precise explanation please see the report: https://github.com/simoasnaghi/Challenge3-IOT/blob/main/report.pdf
+For a precise explanation please see the report: https://github.com/simoasnaghi/Challenge3-IOT/blob/main/Report.pdf
 
 Teamspeak public link: https://thingspeak.com/channels/1726235
